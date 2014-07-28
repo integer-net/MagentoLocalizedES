@@ -122,11 +122,11 @@
             <currency>EUR</currency>
             <timezone>Europe/Berlin</timezone>
             <install_guide_url>
-                <nl>http://www.nr-apps.com/n/magento_es_es/guide.html</nl>
+                <es>http://www.nr-apps.com/n/magento_es_es/guide.html</es>
                 <default>http://www.nr-apps.com/n/magento_es_en/guide.html</default>
             </install_guide_url>
             <survey_url>
-                <nl>http://www.nr-apps.com/n/magento_es_es/survey.html</nl>
+                <es>http://www.nr-apps.com/n/magento_es_es/survey.html</es>
                 <default>http://www.nr-apps.com/n/magento_es_en/survey.html</default>
             </survey_url>
             <form_fields>
